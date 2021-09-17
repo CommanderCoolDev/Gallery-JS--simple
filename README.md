@@ -1,2 +1,2 @@
-# Slider
+# Slider JS
 simple slider
